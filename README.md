@@ -4,4 +4,4 @@
 
 [PDF 문서](findjob-.pdf)
 
-[embed]findjob-.pdf.pdf[/embed]
+[embed]findjob-.pdf[/embed]
