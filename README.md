@@ -4,4 +4,4 @@
 
 [PDF 문서](findjob-.pdf)
 
-[embed]findjob-.pdf[/embed]
+[embed]https://github.com/hanbong5938/BTL/blob/master/findjob-.pdf[/embed]
