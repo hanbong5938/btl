@@ -5,3 +5,5 @@
 [포트폴리오 문서](findjob-.pdf)
 
 [시연 영상](https://www.youtube.com/watch?v=efxjcBw0Xmk)
+
+[발췌 부분](BTL-master.zip)
