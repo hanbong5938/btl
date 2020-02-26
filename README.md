@@ -6,4 +6,4 @@
 
 [시연 영상](https://www.youtube.com/watch?v=efxjcBw0Xmk)
 
-[발췌 부분](BTL-master.zip)
+[작성 부분 압축 파일](BTL-master.zip)
